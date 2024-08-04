@@ -1,0 +1,4 @@
+THIS IS JUST SOME SIMPLE PROFIOLO MINI WEBSITE AS A STARTER
+1. basics HTML codes
+2. pure CSS for the styling
+   
